@@ -35,7 +35,7 @@ w0 = 2*pi*dataset.modulation_frequency;
 wb = waitbar(0,'DAS beamforming');
 %
 tgc1 = time_vector'./max(time_vector);
-tgc1 = exp(5*tgc1);
+tgc1 = exp(4*tgc1);
 %
 for pw=1
     %-- transmit delay
