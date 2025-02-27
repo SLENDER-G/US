@@ -22,5 +22,7 @@ These scripts will help you create the weighting matrix Phi.
 
 3.Place Phi in the Correct Directory:
 After Phi is created, save it in the same folder where the algorithm source codes are located.
+
+We thank the organizers of the ultrasound toolbox and PICMUS challenge for providing publicly available data and codes. The authors sincerely thank Sobhan Goudarzi for making their MATLAB codes available online.
 # License
-License for non-commercial use of the software.
+[License](https://github.com/SLENDER-G/US/edit/main/LICENSE.txt) for non-commercial use of the software.Please cite the following [paper](https://doi.org/10.1109/TUFFC.2022.3198874) when using the codes. This code
